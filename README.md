@@ -18,7 +18,7 @@ Everything here is built from scratch.
 
 - LangChain,Google ADK,FastMCP
 
-- PostgreSQL,MongoDB,Neo4j,
+- PostgreSQL,MongoDB,Neo4j
 
 ---
 
