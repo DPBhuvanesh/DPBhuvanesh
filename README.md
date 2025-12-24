@@ -12,11 +12,13 @@ Everything here is built from scratch.
 
 ### 💽 Tools & Tech
 
-- FastAPI,Node.js,Django
+- FastAPI,Node.js,Express.js
 
 - React,Next.js,HTML,CSS
 
-- LangChain,Google ADK
+- LangChain,Google ADK,FastMCP
+
+- PostgreSQL,MongoDB,Neo4j,
 
 ---
 
